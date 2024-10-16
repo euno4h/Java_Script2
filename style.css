@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding-top: 50px;
+
+}
+h1{
+    margin-bottom: 20px;
+}
+#circulo{
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    border-radius: 50%;
+    margin:0 auto 20px;
+    transition: all 0.5s ease;
+
+}
+bottom{
+    padding: 10px 20px;
+    font-size: 16px ;
+    background-color:#28a745 ;
+    color:white;
+    border:none;
+    cursor: pointer;
+}
+botton :hover{
+    background-color: #218838;
+}
